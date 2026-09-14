@@ -17,10 +17,13 @@ header{
     background-color: #111a33;
     padding: 20px;
     text-align: center;
-    
+
 }
 
 header h1 {
+
+    color: #8db5ff;
+    margin-bottom: 15px;
 
 } 
 
