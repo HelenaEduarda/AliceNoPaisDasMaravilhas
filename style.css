@@ -71,10 +71,23 @@ section{
     
 }
 
+section:hover{
+
+    transform: scale(1.02);
+
+}
+
 a {
+
+    transition: 0.3s;
 
 }
 
 footer{
+
+    background-color: #111a33;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 
 }
